@@ -1,1 +1,1 @@
-# test-infra
+# Test terraform templates
