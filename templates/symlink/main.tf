@@ -1,4 +1,4 @@
-resource "null_resource" "wait" {
+resource "null_resource" "wait1" {
   provisioner "local-exec" {
     command = <<EOT
       sleep 5
